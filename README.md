@@ -6,7 +6,7 @@ I have worked with diverse a set of tools, including Python, SQL, Spark, AWS, an
 from creating statistical models to optimizing data pipelines.
 
 #### How to reach me 
-- [LinkedIn](linkedin.com/in/douglas-fg/)
+- [LinkedIn](https://linkedin.com/in/douglas-fg/)
 
 <!---
 douglkr/douglkr is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
